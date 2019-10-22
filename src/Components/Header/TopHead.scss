@@ -1,0 +1,11 @@
+.TopHead {
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+
+    &__Dropdown {
+        display: flex;
+        justify-content: space-between;
+    }
+}
+

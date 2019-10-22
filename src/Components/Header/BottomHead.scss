@@ -1,0 +1,25 @@
+.BottomHead {
+    padding: 2rem;
+    color: #ff4858;
+    & h1 {
+        font-size: 2rem;
+        margin-bottom: 2rem;
+    }
+
+    .navlink {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 1rem;
+        
+
+        &--items {
+            text-decoration: none;
+            font-size: 1.1rem;
+
+            &:hover {
+                color: #33a0ff;
+            }
+        }
+    }
+}
