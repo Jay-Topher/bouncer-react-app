@@ -1,0 +1,34 @@
+.BridgeCard2 {
+    width: 390px;
+    height: 280px;
+    overflow: hidden;
+    text-align: left;
+    padding: 3rem;
+    background-color: #c1c8ce;
+    color: #000;
+
+    & img {
+        position: relative;
+        top: -95px;
+        left: 115px;
+    }
+
+    h3 {
+        font-size: 2.4rem;
+    }
+
+    .desc {
+        font-size: 1.2rem;
+        line-height: 1.67;
+        margin-bottom: 2rem;
+    }
+}
+
+.cash {
+    font-size: 2.4rem;
+}
+
+.desc {
+    width: 154px;
+    margin-top: 1rem;
+}

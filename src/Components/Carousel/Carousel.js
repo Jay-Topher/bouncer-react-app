@@ -11,7 +11,7 @@ function Carousel() {
 
             <CarouselText title={'iPhone X'} body={"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."} />
 
-            <img src={iPhonex} alt="photo of an iPhone X"/>
+            <img src={iPhonex} alt="iPhone X"/>
             </div>
         </div>
 
