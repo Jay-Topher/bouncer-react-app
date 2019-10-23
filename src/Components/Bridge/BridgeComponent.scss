@@ -1,0 +1,14 @@
+.BridgeComponent {
+    position: relative;
+    top: -50px;
+}
+
+.bridge {
+    display: flex;
+    justify-content: center;
+    // flex-direction: row;
+}
+
+h3 {
+    font-size: 1.6rem;
+}

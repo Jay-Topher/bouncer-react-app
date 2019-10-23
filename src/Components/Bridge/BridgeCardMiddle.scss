@@ -1,0 +1,24 @@
+.BridgeCardMiddle {
+    display: flex;
+    flex-direction: column;
+    padding: 3rem;
+    background-color: #f6f7f8;
+    width: 390px;
+    height: 280px;
+
+    & div {
+        display: flex;
+        justify-content: space-between;
+        position: relative;
+        top: -120px;
+
+        h3 {
+            font-size: 2.4rem;
+        }
+    }
+
+    img {
+        position: relative;
+        top: -60px;
+    }
+}
