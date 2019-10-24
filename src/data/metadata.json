@@ -1,0 +1,126 @@
+{
+  "headerLinks": [
+    {
+      "name": "home",
+      "path": "/",
+      "category": ["accessories", "groceries", "computers"],
+      "categoryItems": [
+        ["wristwatch", "applecart"],
+        ["connected home", "device care"],
+        ["music creation", "network & server"]
+      ]
+    },
+    {
+      "name": "store",
+      "path": "/store",
+      "category": ["accessories", "groceries", "computers"],
+      "categoryItems": [
+        ["wristwatch", "applecart"],
+        ["connected home", "device care"],
+        ["music creation", "network & server"]
+      ]
+    },
+    {
+      "name": "iphone",
+      "path": "/iphone",
+      "category": ["accessories", "groceries", "computers"],
+      "categoryItems": [
+        ["wristwatch", "applecart"],
+        ["connected home", "device care"],
+        ["music creation", "network & server"]
+      ]
+    },
+    {
+      "name": "ipad",
+      "path": "/ipad",
+      "category": ["accessories", "groceries", "computers"],
+      "categoryItems": [
+        ["wristwatch", "applecart"],
+        ["connected home", "device care"],
+        ["music creation", "network & server"]
+      ]
+    },
+    {
+      "name": "macbook",
+      "path": "/macbook",
+      "category": ["accessories", "groceries", "computers"],
+      "categoryItems": [
+        ["wristwatch", "applecart"],
+        ["connected home", "device care"],
+        ["music creation", "network & server"]
+      ]
+    },
+    {
+      "name": "accessories",
+      "path": "/accessories",
+      "category": ["accessories", "groceries", "computers"],
+      "categoryItems": [
+        ["wristwatch", "applecart"],
+        ["connected home", "device care"],
+        ["music creation", "network & server"]
+      ]
+    }
+  ],
+
+  "bestSeller": {
+    "list": ["All", "Mac", "iphone", "ipad", "Accessories"],
+    "data": [
+        {
+          "id": "5db0550b1d3cd1a50eccd5a1",
+          "productName": "Apple Macbook Pro",
+          "ratings": 1,
+          "currentPrice": 252,
+          "oldPrice": 392
+        },
+        {
+          "id": "5db0550b79676f97019e09c7",
+          "productName": "Apple Macbook Pro",
+          "ratings": 4,
+          "currentPrice": 236,
+          "oldPrice": 393
+        },
+        {
+          "id": "5db0550bc7e80158092c795a",
+          "productName": "Apple Macbook Pro",
+          "ratings": 2,
+          "currentPrice": 258,
+          "oldPrice": 382
+        },
+        {
+          "id": "5db0550bc7b6e5cf05d9d70f",
+          "productName": "Apple Macbook Pro",
+          "ratings": 1,
+          "currentPrice": 205,
+          "oldPrice": 321
+        },
+        {
+          "id": "5db0550b1fc917f2343640a8",
+          "productName": "Apple Macbook Pro",
+          "ratings": 4,
+          "currentPrice": 256,
+          "oldPrice": 359
+        },
+        {
+          "id": "5db0550beff3249d7dc434f9",
+          "productName": "Apple Macbook Pro",
+          "ratings": 1,
+          "currentPrice": 256,
+          "oldPrice": 347
+        },
+        {
+          "id": "5db0550bdc5b13ef9b37e669",
+          "productName": "Apple Macbook Pro",
+          "ratings": 5,
+          "currentPrice": 289,
+          "oldPrice": 363
+        },
+        {
+          "id": "5db0550b2181f1479b45d969",
+          "productName": "Apple Macbook Pro",
+          "ratings": 1,
+          "currentPrice": 284,
+          "oldPrice": 344
+        }
+      ]
+  }
+}

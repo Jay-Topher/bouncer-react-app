@@ -1,0 +1,28 @@
+.ProductHeader {
+    margin-bottom: 2rem;
+
+    h3 {
+        text-transform: uppercase;
+        font-size: 3rem;
+        font-weight: 500;
+        margin-bottom: 2rem;
+    }
+    div {
+        display: flex;
+        justify-content: center;
+    }
+
+}
+
+.product-nav {
+    text-decoration: none;
+    font-size: 1.4rem;
+    margin: 1rem 2rem;
+    padding-bottom: .5rem;
+
+    &:hover, :active {
+        color: #33a0ff;
+        padding-bottom: .2rem;
+        border-bottom: 3px solid #33a0ff;
+    }
+}

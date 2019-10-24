@@ -1,7 +1,7 @@
 import React from 'react';
 import CarouselText from './CarouselText';
 import './Carousel.scss'
-import iPhonex from '../img/iPhone_x.png';
+import iPhonex from '../../../assets/img/iPhone_x.png';
 
 function Carousel() {
 
