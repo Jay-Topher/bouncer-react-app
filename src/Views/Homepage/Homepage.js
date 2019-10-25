@@ -3,6 +3,7 @@ import Header from '../../Commons/Header/Header'
 import Carousel from './Carousel/Carousel'
 import BridgeComponent from './Bridge/BridgeComponent'
 import Products from '../../Commons/Products/Products'
+import MidBanner from './MidBanner/MidBanner'
 
 
 
@@ -13,6 +14,8 @@ function Homepage() {
       <Carousel />
       <BridgeComponent />
       <Products />
+      <MidBanner />
+
 
     </div>
   );

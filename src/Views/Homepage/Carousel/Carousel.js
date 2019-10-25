@@ -9,7 +9,7 @@ function Carousel() {
         <div className="Carousel">
             <div className="caro container">
 
-            <CarouselText title={'iPhone X'} body={"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."} />
+            <CarouselText title={'iPhone X'} body={"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy."} footer={'MORE'} />
 
             <img src={iPhonex} alt="iPhone X"/>
             </div>
