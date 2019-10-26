@@ -122,5 +122,23 @@
           "oldPrice": 344
         }
       ]
-  }
+  },
+
+  "subBridge": [
+    {
+      "image": "shipping.png",
+      "title": "FREE SHIPPING",
+      "body" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor minim veniam, quis nostrud  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    },
+    {
+      "image": "refund.png",
+      "title": "100% REFUND",
+      "body" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor minim veniam, quis nostrud  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    },
+    {
+      "image": "support.png",
+      "title": "SUPPORT 24/7",
+      "body" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor minim veniam, quis nostrud  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+    }
+  ]
 }

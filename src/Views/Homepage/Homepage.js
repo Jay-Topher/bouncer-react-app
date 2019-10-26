@@ -4,6 +4,7 @@ import Carousel from './Carousel/Carousel'
 import BridgeComponent from './Bridge/BridgeComponent'
 import Products from '../../Commons/Products/Products'
 import MidBanner from './MidBanner/MidBanner'
+import SubBridge from './SubBridge'
 
 
 
@@ -15,6 +16,7 @@ function Homepage() {
       <BridgeComponent />
       <Products />
       <MidBanner />
+      <SubBridge />
 
 
     </div>
