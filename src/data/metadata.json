@@ -161,5 +161,31 @@
       "title": "Typesetting Industry",
       "body" : "Lorem Ipsum is simply dummy text of the printing and "
     }
+  ],
+  "featuredProducts": [
+    {
+      "id": "5db0550b1d3cd1a50eccd5a1",
+      "productName": "Beats Solo 2 On Ear Headphones - Black",
+      "ratings": 3,
+      "currentPrice": 252,
+      "oldPrice": 392,
+      "image": "headset.png"
+    },
+    {
+      "id": "5db0550b1d3cd1a50eccfd5a1",
+      "productName": "H-Squared tvTray",
+      "ratings": 2,
+      "currentPrice": 252,
+      "oldPrice": 392,
+      "image": "tv_tray.png"
+    },
+    {
+      "id": "5db0550b1d3cd1a50cfcd5a1",
+      "productName": "Netatmo Rain Gauge",
+      "ratings": 4,
+      "currentPrice": 252,
+      "oldPrice": 392,
+      "image": "rain_gauge.png"
+    }
   ]
 }

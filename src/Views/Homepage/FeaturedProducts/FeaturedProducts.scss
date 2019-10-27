@@ -1,0 +1,16 @@
+.FeaturedProducts {
+    margin-bottom: 3rem;
+
+    h2 {
+        text-transform: uppercase;
+        font-weight: normal;
+        margin-bottom: 2rem;
+    }
+
+    .featured {
+        display: flex;
+        width: 112.4rem;
+        justify-content: space-between;
+        padding: 2rem;
+    }
+}

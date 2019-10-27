@@ -1,0 +1,21 @@
+.FeaturedCard {
+    display: flex;
+    align-items: center;
+    width: 32rem;
+
+    &-image {
+        height: 13rem;
+        width: 13rem;
+        border: 2px solid #f6f7f8;
+        border-radius: 4px;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    &-body {
+        text-align: left;
+        padding: 1.5rem;
+    }
+}

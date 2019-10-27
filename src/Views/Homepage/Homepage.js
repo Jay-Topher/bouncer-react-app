@@ -6,6 +6,7 @@ import Products from '../../Commons/Products/Products'
 import MidBanner from './MidBanner/MidBanner'
 import SubBridge from './SubBridge'
 import LatestNews from './LatestNews'
+import FeaturedProducts from './FeaturedProducts'
 
 
 
@@ -19,6 +20,8 @@ function Homepage() {
       <MidBanner />
       <SubBridge />
       <LatestNews />
+      <FeaturedProducts />
+
 
 
     </div>
