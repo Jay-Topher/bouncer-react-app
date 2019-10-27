@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Store() {
+export default function FeaturedProducts() {
     return (
         <div>
-            <h1>This is my store</h1>
+            
         </div>
     )
 }
