@@ -65,80 +65,80 @@
   "bestSeller": {
     "list": ["All", "Mac", "iphone", "ipad", "Accessories"],
     "data": [
-        {
-          "id": "5db0550b1d3cd1a50eccd5a1",
-          "productName": "Apple Macbook Pro",
-          "ratings": 1,
-          "currentPrice": 252,
-          "oldPrice": 392
-        },
-        {
-          "id": "5db0550b79676f97019e09c7",
-          "productName": "Apple Macbook Pro",
-          "ratings": 4,
-          "currentPrice": 236,
-          "oldPrice": 393
-        },
-        {
-          "id": "5db0550bc7e80158092c795a",
-          "productName": "Apple Macbook Pro",
-          "ratings": 2,
-          "currentPrice": 258,
-          "oldPrice": 382
-        },
-        {
-          "id": "5db0550bc7b6e5cf05d9d70f",
-          "productName": "Apple Macbook Pro",
-          "ratings": 1,
-          "currentPrice": 205,
-          "oldPrice": 321
-        },
-        {
-          "id": "5db0550b1fc917f2343640a8",
-          "productName": "Apple Macbook Pro",
-          "ratings": 4,
-          "currentPrice": 256,
-          "oldPrice": 359
-        },
-        {
-          "id": "5db0550beff3249d7dc434f9",
-          "productName": "Apple Macbook Pro",
-          "ratings": 1,
-          "currentPrice": 256,
-          "oldPrice": 347
-        },
-        {
-          "id": "5db0550bdc5b13ef9b37e669",
-          "productName": "Apple Macbook Pro",
-          "ratings": 5,
-          "currentPrice": 289,
-          "oldPrice": 363
-        },
-        {
-          "id": "5db0550b2181f1479b45d969",
-          "productName": "Apple Macbook Pro",
-          "ratings": 1,
-          "currentPrice": 284,
-          "oldPrice": 344
-        }
-      ]
+      {
+        "id": "5db0550b1d3cd1a50eccd5a1",
+        "productName": "Apple Macbook Pro",
+        "ratings": 1,
+        "currentPrice": 252,
+        "oldPrice": 392
+      },
+      {
+        "id": "5db0550b79676f97019e09c7",
+        "productName": "Apple Macbook Pro",
+        "ratings": 4,
+        "currentPrice": 236,
+        "oldPrice": 393
+      },
+      {
+        "id": "5db0550bc7e80158092c795a",
+        "productName": "Apple Macbook Pro",
+        "ratings": 2,
+        "currentPrice": 258,
+        "oldPrice": 382
+      },
+      {
+        "id": "5db0550bc7b6e5cf05d9d70f",
+        "productName": "Apple Macbook Pro",
+        "ratings": 1,
+        "currentPrice": 205,
+        "oldPrice": 321
+      },
+      {
+        "id": "5db0550b1fc917f2343640a8",
+        "productName": "Apple Macbook Pro",
+        "ratings": 4,
+        "currentPrice": 256,
+        "oldPrice": 359
+      },
+      {
+        "id": "5db0550beff3249d7dc434f9",
+        "productName": "Apple Macbook Pro",
+        "ratings": 1,
+        "currentPrice": 256,
+        "oldPrice": 347
+      },
+      {
+        "id": "5db0550bdc5b13ef9b37e669",
+        "productName": "Apple Macbook Pro",
+        "ratings": 5,
+        "currentPrice": 289,
+        "oldPrice": 363
+      },
+      {
+        "id": "5db0550b2181f1479b45d969",
+        "productName": "Apple Macbook Pro",
+        "ratings": 1,
+        "currentPrice": 284,
+        "oldPrice": 344
+      }
+    ]
   },
 
   "subBridge": [
     {
       "image": "shipping.png",
       "title": "FREE SHIPPING",
-      "body" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor minim veniam, quis nostrud  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor minim veniam, quis nostrud  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
     },
     {
       "image": "refund.png",
       "title": "100% REFUND",
-      "body" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor minim veniam, quis nostrud  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor minim veniam, quis nostrud  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
     },
     {
       "image": "support.png",
       "title": "SUPPORT 24/7",
-      "body" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor minim veniam, quis nostrud  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor minim veniam, quis nostrud  reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur"
     }
   ],
 
@@ -147,21 +147,22 @@
       "image": "latest1.png",
       "date": "01 Jan, 2019",
       "title": "Typesetting Industry",
-      "body" : "Lorem Ipsum is simply dummy text of the printing and "
+      "body": "Lorem Ipsum is simply dummy text of the printing and "
     },
     {
       "image": "latest2.png",
       "date": "01 Jan, 2019",
       "title": "Typesetting Industry",
-      "body" : "Lorem Ipsum is simply dummy text of the printing and "
+      "body": "Lorem Ipsum is simply dummy text of the printing and "
     },
     {
       "image": "latest3.png",
       "date": "01 Jan, 2019",
       "title": "Typesetting Industry",
-      "body" : "Lorem Ipsum is simply dummy text of the printing and "
+      "body": "Lorem Ipsum is simply dummy text of the printing and "
     }
   ],
+
   "featuredProducts": [
     {
       "id": "5db0550b1d3cd1a50eccd5a1",
@@ -187,5 +188,21 @@
       "oldPrice": 392,
       "image": "rain_gauge.png"
     }
+  ],
+
+  "footerLinks": [
+    "Information",
+    "Service",
+    "Extras",
+    "My Account",
+    "Useful Links",
+    "Our Offers"
+  ],
+
+  "footerLists": [
+    "About Us",
+    "Information",
+    "Privacy Policy",
+    "Terms & Conditions"
   ]
 }

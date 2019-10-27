@@ -1,0 +1,18 @@
+.FooterLinks {
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    margin-top: 3rem;
+    flex-wrap: wrap;
+}
+
+h3 {
+    margin-bottom: 1.5rem;
+    font-weight: normal;
+}
+
+li {
+    list-style: none;
+    margin-bottom: 1rem;
+
+}

@@ -1,0 +1,11 @@
+.FooterBottom {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 112.4rem;
+    padding: 1.5rem;
+
+    .copyright {
+        color: #c1c8ce;
+    }
+}
