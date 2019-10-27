@@ -1,0 +1,30 @@
+.SubBridgePosts {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    width: 33rem;
+    height: 25.6rem;
+    padding: 3rem;
+    margin-bottom: 3rem;
+
+    .img {
+        height: 45px;
+        width: auto;
+
+        img {
+            height: inherit;
+        }
+    }
+
+    p {
+        line-height: 1.7;
+        font-size: 1.2rem;
+    }
+
+    h3 {
+        font-size: 2rem;
+        font-weight: normal;
+    }
+    
+}

@@ -1,0 +1,29 @@
+.LatestNewsCard {
+    display: flex;
+    align-items: center;
+
+    .img {
+        height: 16.6rem;
+        width: 14rem;
+    }
+
+    .date {
+        color: #c1c8ce;
+        font-size: 1.4rem;
+    }
+
+    h4 {
+        font-size: 1.8rem;
+        font-weight: 700;
+    }
+
+    p {
+        line-height: 1.7;
+    }
+
+    .card-description {
+        text-align: left;
+        padding: 1rem;
+        padding-right: 2rem;
+    }
+}

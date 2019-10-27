@@ -1,6 +1,6 @@
 import React from 'react';
 import './BridgeCard2.scss';
-import cam from "../img/cam.png";
+import cam from "../../../assets/img/cam.png";
 
 
 function BridgeCard2() {

@@ -1,5 +1,5 @@
 import React from 'react';
-import image from '../img/vr_goggle.png';
+import image from '../../../assets/img/vr_goggle.png';
 import './BridgeCardMiddle.scss'
 
 function BridgeCardMiddle() {

@@ -1,0 +1,46 @@
+.ProductCard {
+  border: 3px solid #f6f7f8;
+  width: 27rem;
+  height: 34.9rem;
+  border-radius: 3px;
+
+  .product-image {
+    width: 23.6rem;
+    height: 15.3rem;
+    margin: 0 auto;
+  }
+
+  &__body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 18rem;
+
+    h4 {
+      font-size: 1.4rem;
+    }
+
+    div span {
+        font-size: 1.8rem;
+        padding: .5rem;
+
+        &.crossed {
+            color: grey;
+            text-decoration: line-through;
+        }
+    }
+  }
+}
+
+.goldStar {
+  color: gold;
+  font-size: 1.6rem;
+
+}
+
+.greyStar {
+  color: grey;
+  font-size: 1.6rem;
+
+}
+

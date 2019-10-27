@@ -13,7 +13,7 @@ function BottomHead() {
             </h1>
             <nav className='navlink'>
                 {navLinks.map(item => (
-                   <a href='/' className='mx-2 navlink--items'>{item}</a>
+                   <a href='/' className='mx-2 navlink--items' >{item}</a>
                 ))}
             </nav>
         </div>

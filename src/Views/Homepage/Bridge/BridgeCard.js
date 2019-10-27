@@ -1,6 +1,6 @@
 import React from 'react';
 import './BridgeCard.scss';
-import iPhone6 from "../img/iPhone_6.png";
+import iPhone6 from "../../../assets/img/iPhone_6.png";
 
 function BridgeCard() {
     

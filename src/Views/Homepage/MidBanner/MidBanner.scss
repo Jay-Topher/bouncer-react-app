@@ -1,0 +1,45 @@
+.MidBanner {
+  height: 60rem;
+  background-color: #2e90e5;
+  margin-top: 5rem;
+  // overflow: hidden;
+
+  &__body {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    .banner-img {
+      height: 70.9rem;
+      position: relative;
+      top: -10.9rem;
+      overflow: hidden;
+    }
+  }
+
+  div .CarouselText {
+    display: flex;
+    height: 262px;
+    width: 395px;
+    font-size: 2.4rem;
+
+
+    h2 {
+      font-size: 6.4rem;
+      font-weight: normal;
+    }
+
+    .body {
+      font-size: 2.4rem;
+      line-height: 1.8;
+
+    }
+
+    p.underline {
+      padding-bottom: 2px;
+      border-bottom: 3px solid #fff;
+      display: inline-block;
+      align-self: flex-start;
+    }
+  }
+}
