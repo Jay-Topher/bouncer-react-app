@@ -1,0 +1,24 @@
+.SearchQuery {
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+}
+
+.search {
+    width: 30rem;
+    border: 2px solid #f6f7f8;
+    padding: 1.5rem 1rem 1.5rem 1rem;
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+
+    &::placeholder {
+        color:#c3c6c9;
+    }
+}
+
+.but {
+    background-color: #2e90e5;
+    color: #fff;
+    border: 2px solid #2e90e5;
+    width: 8rem;
+    padding: 1.5rem 1rem 1.5rem 1rem;
+}

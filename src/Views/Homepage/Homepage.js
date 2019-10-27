@@ -7,6 +7,7 @@ import MidBanner from './MidBanner/MidBanner'
 import SubBridge from './SubBridge'
 import LatestNews from './LatestNews'
 import FeaturedProducts from './FeaturedProducts'
+import SearchQuery from './SearchQuery' 
 
 
 
@@ -21,6 +22,7 @@ function Homepage() {
       <SubBridge />
       <LatestNews />
       <FeaturedProducts />
+      <SearchQuery />
 
 
 
