@@ -7,8 +7,8 @@ export default function FooterLinks() {
         <div className="FooterLinks">
             {
                 footerLinks.map((val, i) => (
-                    <div>
-                    <h3 key={i}>{val}</h3>
+                    <div key={i}>
+                    <h3>{val}</h3>
                     <ul>
                         {
                             footerLists.map((list, index) => (

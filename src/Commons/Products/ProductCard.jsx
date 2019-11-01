@@ -2,6 +2,8 @@ import React from "react";
 import { MdStar } from "react-icons/md";
 import "./ProductCard.scss";
 import money from '../../Utils/Utils';
+import { useDispatch } from 'react-redux'
+import add from '../../Action/index'
 
 export default function ProductCard({
   productName,
@@ -9,17 +11,20 @@ export default function ProductCard({
   currentPrice,
   oldPrice
 }) {
+
+  const dispatch = useDispatch()
+
   let stars = [];
   for (let i = 0; i < 5; i++) {
     if (i < ratings) {
-      stars.push(<MdStar className="goldStar" />);
+      stars.push(<MdStar className="goldStar" key={i} />);
     } else {
-      stars.push(<MdStar className="greyStar" />);
+      stars.push(<MdStar className="greyStar" key={i} />);
     }
   }
 
   return (
-    <div className="ProductCard">
+    <div className="ProductCard" onClick={() => dispatch(add())}>
       <div className="product-image">
         <img src={require('../../assets/img/apple_laptop.png')} alt="laptop" />
       </div>

@@ -204,5 +204,15 @@
     "Information",
     "Privacy Policy",
     "Terms & Conditions"
+  ],
+
+  "accessories": [
+    { "name": "Apple Car", "quantity": "2" },
+    { "name": "Air port & wireless", "quantity": "48" },
+    { "name": "Cables & Docks", "quantity": "14" },
+    { "name": "Cases & Films", "quantity": "15" },
+    { "name": "Charging Devices", "quantity": "23" },
+    { "name": "Connected home", "quantity": "1" },
+    { "name": "Headphones", "quantity": "95" }
   ]
 }

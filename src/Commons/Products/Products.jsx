@@ -11,8 +11,9 @@ export default function Products() {
     <div className="container">
       <ProductHeader />
       <div className="Products">
-        {data.map(value => (
+        {data.map((value, i) => (
           <ProductCard
+            key={i}
             productName={value.productName}
             ratings={value.ratings}
             currentPrice={value.currentPrice}

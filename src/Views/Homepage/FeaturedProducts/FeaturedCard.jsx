@@ -13,9 +13,9 @@ export default function FeaturedCard({
   let stars = [];
   for (let i = 0; i < 5; i++) {
     if (i < ratings) {
-      stars.push(<MdStar className="goldStar" />);
+      stars.push(<MdStar className="goldStar" key={i} />);
     } else {
-      stars.push(<MdStar className="greyStar" />);
+      stars.push(<MdStar className="greyStar" key={i} />);
     }
   }
   return (

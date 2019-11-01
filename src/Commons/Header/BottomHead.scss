@@ -16,8 +16,10 @@
         &--items {
             text-decoration: none;
             font-size: 1.1rem;
+            text-transform: uppercase;
+            color: #000;
 
-            &:hover {
+            &:hover, &:active {
                 color: #33a0ff;
             }
         }
